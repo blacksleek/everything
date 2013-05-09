@@ -1,0 +1,37 @@
+# 3 important things a computer does
+# storage
+# computation
+# transmission
+
+# Error Correction Schemes
+# repetition
+# redundancy (encoding) (adding on data)
+
+# Negative impacts
+# useless
+# worse than useless (malicious intent)
+
+
+## ---Repetition---
+##original: 521375
+##
+##transmission 1: 529375
+##transmission 2: 521375
+##transmission 3: 521311
+##transmission 4: 544375
+##transmission 5: 721875
+##
+##
+##most common digit in each place: 521375
+
+## ---Redundancy---
+## encoding scheme
+## 0 - zero
+## 1 - one
+## 2 - two
+## ...
+## 9 - nine
+
+##original: 521375
+##encoded: five two one three seven five
+##corrupted: fiqe kwo one thrxp sivpn fivq
