@@ -9,3 +9,5 @@ print("1, 2, 3, 4, 5".split(", ")) #returns list
 print("this is a cow.".strip("aeiou")) #removes all mentioned characters
 
 repeat-until loop = check for criteria last (ie run at least once)
+
+"".join(list[::-1]) # joins reversed list into string
